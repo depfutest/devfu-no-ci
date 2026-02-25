@@ -1,7 +1,9 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    minitest (5.9.1)
+    minitest (6.0.1)
+      prism (~> 1.5)
+    prism (1.9.0)
     rake (10.5.0)
 
 PLATFORMS
